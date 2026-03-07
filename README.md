@@ -22,5 +22,5 @@ I am developing skills in Excel, SQL, and Power BI to become a Data Analyst.
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/sonal-patel-19a5493b5/
 Instragram: s_o_n_a_l_7102
-Email: sp002571@gmail.com
+Email: sonalpatel7102s@gmail.com
 
